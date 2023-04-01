@@ -1,2 +1,2 @@
-link:https://keilbambo.github.io/Portifolio/
+link: https://keilbambo.github.io/Portifolio/
 # Portfólio minimalista
